@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1be6bc2-3d16-45fb-8011-29f578202c88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-    </list>
+    <list default="true" id="d1be6bc2-3d16-45fb-8011-29f578202c88" name="Default" comment="" />
     <ignored path="suentsu.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d1be6bc2-3d16-45fb-8011-29f578202c88" time="1414281975516" ignored="false" />
